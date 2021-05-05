@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082022509625",
+    "project_id": "mccapp-d3481",
+    "storage_bucket": "mccapp-d3481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082022509625:android:6964389cd659db5a39e1e8",
+        "android_client_info": {
+          "package_name": "com.example.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082022509625-pu7pa0jflhd0sk5d0fq7pv4eviq1ntu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPieTT-NZBMZOBVsD9cag5SC847R-AQkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082022509625-pu7pa0jflhd0sk5d0fq7pv4eviq1ntu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
